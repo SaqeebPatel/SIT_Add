@@ -1,5 +1,7 @@
 # college application
 
+it is basically two application one for user and second one is admin 
+
 # Preview:
 # User App
 <img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/dc814698-36f7-4da4-8f2f-bf93b5eb42ea" alt="Splash Screen" width="98" height="200" />  <img src="https://github.com/SaqeebPatel/SIT_App/assets/132561344/2f74cdd0-e731-4d3d-9f7c-b30cab0d40ef" alt="Splash Screen" width="100" height="200" /> 
